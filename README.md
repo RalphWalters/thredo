@@ -1,7 +1,7 @@
 # Amazing Talks! 
-Thredo https://www.youtube.com/watch?v=U66KuyD3T0M
+Thredo: https://www.youtube.com/watch?v=U66KuyD3T0M
 
-GIL https://www.youtube.com/watch?v=Obt-vMVdM8s
+GIL:    https://www.youtube.com/watch?v=Obt-vMVdM8s
 
 # thredo
 
