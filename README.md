@@ -1,3 +1,5 @@
+# Amazing Talk! https://www.youtube.com/watch?v=U66KuyD3T0M
+
 # thredo
 
 Thredo is threads on async.  For the brave. Or the foolish. Only time will tell.
